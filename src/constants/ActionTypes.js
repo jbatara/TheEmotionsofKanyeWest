@@ -1,0 +1,1 @@
+export const KANYE_MOOD = 'KANYE_MOOD';

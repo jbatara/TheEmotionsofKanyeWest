@@ -1,0 +1,571 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "7713",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-02T06:03:35",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "f7956a1a8367a24ca10f34da6b3b821c",
+    "x-dp-watson-tran-id": "f7956a1a8367a24ca10f34da6b3b821c",
+    "x-edgeconnect-midmile-rtt": "59",
+    "x-edgeconnect-origin-mex-latency": "641",
+    "date": "Mon, 09 Dec 2019 23:59:00 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.666836,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.663385,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "I love sleep; it's my favorite.",
+        "tones": [
+          {
+            "score": 0.947031,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "We all self-conscious.",
+        "tones": [
+          {
+            "score": 0.989586,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "I'm just the first to admit it.",
+        "tones": [
+          {
+            "score": 0.681699,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "Distraction is the enemy of vision We came into a broken world.",
+        "tones": [
+          {
+            "score": 0.675658,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 4,
+        "text": "And we're the cleanup crew.",
+        "tones": []
+      },
+      {
+        "sentence_id": 5,
+        "text": "Style is genderless 2024 Let's be like water Pulling up in the may bike Pulling up in the may bike Only free thinkers Believe in your flyness...conquer your shyness.",
+        "tones": [
+          {
+            "score": 0.55278,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.741983,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.765702,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 6,
+        "text": "My greatest pain in life is that I will never be able to see myself perform live.",
+        "tones": [
+          {
+            "score": 0.622796,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 7,
+        "text": "My greatest pain in life is that I will never be able to see myself perform live.",
+        "tones": [
+          {
+            "score": 0.622796,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 8,
+        "text": "People always say that you can't please everybody.",
+        "tones": [
+          {
+            "score": 0.898327,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 9,
+        "text": "I think that's a cop-out.",
+        "tones": [
+          {
+            "score": 0.882284,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 10,
+        "text": "Why not attempt it?",
+        "tones": [
+          {
+            "score": 0.984352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 11,
+        "text": "Cause think of all the people that you will please if you try.",
+        "tones": [
+          {
+            "score": 0.972852,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.543112,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 12,
+        "text": "Only free thinkers Sometimes you have to get rid of everything If I don't scream, if I don't say something then no one's going to say anything.",
+        "tones": [
+          {
+            "score": 0.907142,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.798791,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 13,
+        "text": "Sometimes you have to get rid of everything People always tell you 'Be humble.",
+        "tones": [
+          {
+            "score": 0.788547,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.735644,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 14,
+        "text": "Be humble.'",
+        "tones": [
+          {
+            "score": 0.916667,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 15,
+        "text": "When was the last time someone told you to be amazing?",
+        "tones": [
+          {
+            "score": 0.524345,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.786991,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 16,
+        "text": "Be great!",
+        "tones": [
+          {
+            "score": 0.880435,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 17,
+        "text": "Be awesome!",
+        "tones": [
+          {
+            "score": 1,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 18,
+        "text": "Be awesome!",
+        "tones": [
+          {
+            "score": 1,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 19,
+        "text": "The thought police want to suppress freedom of thought Pulling up in the may bike I really love my Tesla.",
+        "tones": [
+          {
+            "score": 0.546224,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.882284,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.822231,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 20,
+        "text": "I'm in the future.",
+        "tones": []
+      },
+      {
+        "sentence_id": 21,
+        "text": "Thank you Elon.",
+        "tones": [
+          {
+            "score": 0.793409,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 22,
+        "text": "If I don't scream, if I don't say something then no one's going to say anything.",
+        "tones": [
+          {
+            "score": 0.825947,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.88939,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 23,
+        "text": "Shut the fuck up I will fucking laser you with alien fucking eyes and explode your fucking head For me giving up is way harder than trying.",
+        "tones": [
+          {
+            "score": 0.90322,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 24,
+        "text": "2024 My greatest award is what I'm about to do.",
+        "tones": [
+          {
+            "score": 0.804702,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 25,
+        "text": "Let's be like water I want the world to be better!",
+        "tones": [
+          {
+            "score": 0.705705,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 26,
+        "text": "All I want is positive!",
+        "tones": [
+          {
+            "score": 0.871788,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.993864,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 27,
+        "text": "All I want is dopeness!",
+        "tones": [
+          {
+            "score": 0.961633,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 28,
+        "text": "I feel calm but energized Believe in your flyness...conquer your shyness.",
+        "tones": [
+          {
+            "score": 0.676408,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.788547,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 29,
+        "text": "Perhaps I should have been more like water today Keep squares out yo circle Fur pillows are hard to actually sleep on My dad got me a drone for Christmas I'd like to meet with Tim Cook.",
+        "tones": [
+          {
+            "score": 0.555468,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 30,
+        "text": "I got some ideas I want the world to be better!",
+        "tones": [
+          {
+            "score": 0.683052,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.653099,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.786991,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 31,
+        "text": "All I want is positive!",
+        "tones": [
+          {
+            "score": 0.871788,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.993864,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 32,
+        "text": "All I want is dopeness!",
+        "tones": [
+          {
+            "score": 0.961633,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 33,
+        "text": "I feel calm but energized George Bush doesn't care about black people People only get jealous when they care.",
+        "tones": [
+          {
+            "score": 0.551301,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.525007,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 34,
+        "text": "Perhaps I should have been more like water today I wish I had a friend like me Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?",
+        "tones": [
+          {
+            "score": 0.822231,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 35,
+        "text": "Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?",
+        "tones": [
+          {
+            "score": 0.592606,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.523822,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.769251,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 36,
+        "text": "The world is our family I'm the best I love sleep; it's my favorite.",
+        "tones": [
+          {
+            "score": 0.945202,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 37,
+        "text": "Truth is my goal.",
+        "tones": [
+          {
+            "score": 0.703197,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.898327,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 38,
+        "text": "Controversy is my gym.",
+        "tones": []
+      },
+      {
+        "sentence_id": 39,
+        "text": "I'll do a hundred reps of controversy for a 6 pack of truth My dad got me a drone for Christmas We all self-conscious.",
+        "tones": [
+          {
+            "score": 0.503547,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.704642,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 40,
+        "text": "I'm just the first to admit it.",
+        "tones": [
+          {
+            "score": 0.681699,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      }
+    ]
+  }
+}
